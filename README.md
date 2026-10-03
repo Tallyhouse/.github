@@ -1,3 +1,5 @@
 # Tallyhouse
 
-Tallyhouse is a collaborative platform built to help teams organize work, track progress, and turn ideas into action. It brings planning, communication, and visibility into one place so teams can stay aligned, move faster, and deliver with confidence.
+Tallyhouse is a modern technology company focused on building practical, scalable tools that help teams work smarter and move faster. We design digital products that improve visibility, streamline operations, and support better decision-making across organizations.
+
+This repository stores the shared GitHub configuration for the Tallyhouse organization, including automation, community standards, and reusable project defaults that help our teams build consistently and efficiently.
